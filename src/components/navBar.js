@@ -1,4 +1,7 @@
+//importación
 import React from "react";
+
+//función
 
 const Navbar = () => {
     let imagUrl = "https://raw.githubusercontent.com/PokeAPI/media/master/logo/pokeapi_256.png"
